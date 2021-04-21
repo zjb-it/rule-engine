@@ -9,8 +9,6 @@
 
 **[规则引擎文档](https://github.com/zjb-it/rule-engine/blob/master/README.md)**
 
-**[规则平台后台管理文档,主要负责持久化规则](https://github.com/zjb-it/rule-platform-server/blob/master/README.md)**
-
 **[规则平台前端文档](https://github.com/zjb-it/rule-platform-front/blob/master/README.md)**
 
 **[更多开源软件 https://www.pincheche.online/](https://www.pincheche.online/)**

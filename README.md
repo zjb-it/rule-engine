@@ -5,7 +5,7 @@
 >2. 快速集成:在依赖其它系统接口的时候，不再需要额外工作量，只需要注册接口，即可完成集成  
 >3. 在保证运行结果正确的情况下，优化数据结构，减少内存开销，提升运行速度  
 
-*试用链接：数据每天24点会重置* https://www.pincheche.online/rule-front/
+*测试链接：数据每天24点会重置* https://www.pincheche.online/rule-front/
 
 **[规则引擎文档](https://github.com/zjb-it/rule-engine/blob/master/README.md)**
 
